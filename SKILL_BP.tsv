@@ -1556,170 +1556,170 @@ SKILL_20150317_001554
 SKILL_20150317_001555
 SKILL_20150317_001556 Explosão de Energia
 SKILL_20150317_001557 {#6644FF}{ol}[Divino]{/}{/}Atributo{nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Splash #{SkillSR}#{nl} Consumo #{SpendSP }# SP
-SKILL_20150317_001558
-SKILL_20150317_001559 Dissipador de Habilidade
-SKILL_20150317_001560 Simonia
-SKILL_20150317_001561 Intensificador de Habilidade
-SKILL_20150317_001562 Loja de Magia
-SKILL_20150317_001563 Indulgência
-SKILL_20150317_001564 Sacrifício
-SKILL_20150317_001565 Telepata
-SKILL_20150317_001566 Carnívoro
-SKILL_20150317_001567 Mudar de Forma
-SKILL_20150317_001568 Transformar
-SKILL_20150317_001569 Sterea Trofh
-SKILL_20150317_001570 Chortasmata
-SKILL_20150317_001571 Transformar em Planta
-SKILL_20150317_001572 Chamada de Divindades
-SKILL_20150317_001573 Energia Arcana
-SKILL_20150317_001574 Mudança
-SKILL_20150317_001575 Clarividência
-SKILL_20150317_001576 Contramágica
-SKILL_20150317_001577 Previsão
-SKILL_20150317_001578 Mudar queda de item
-SKILL_20150317_001579 Tornar-se guarda e propagar o buff recebido aos aliados.
-SKILL_20150317_001580 Criar um círculo mágico que aumenta a DEX dos aliados. Diminuí a defesa do inimigo.
-SKILL_20150317_001581 Agilidade +#{CaptionRatio}#% aumenta {nl}Duração #{CaptionTime}#{nl} segundos {nl}Defesa do Inimigo -#{CaptionRatio2}#%{nl} {nl}Duração do circulo mágico 10 segundos {nl}Consumo #{SpendSP}# SP
-SKILL_20150317_001582 Um circulo mágico que aumentará a velocidade de movimento dos aliados.
-SKILL_20150317_001583 Velocidade de Movimento + #{CaptionRatio}#% {nl} Velocidade + 0.2% por nível de habilidade {nl} Duração #{CaptionTime}# segundos{nl}Consumo #{SpendSP}# SP
-SKILL_20150317_001584 Aspergir água benta nos aliados à frente incluindo você mesmo, aumentando o ataque.
-SKILL_20150317_001585 Ataque +#{CaptionRatio}#% {nl}Aumenta o ataque adicional 0.4% por nível de habilidade{nl}Duração 120 segundos{nl}Consumo #{SpendSP}# SP
-SKILL_20150317_001586 Ataque aditivo eficaz para inimigos próximos.
-SKILL_20150317_001587 Cria Hp mágico que aumenta o HP máximo dos aliados.
-SKILL_20150317_001588 Energia Máxima + #{CaptionRatio}#% {nl}Duração 90 segundos {nl}Consumo #{SpendSP}# SP
-SKILL_20150317_001589 Inicia febre nos membros do grupo.
-SKILL_20150317_001590 Extrair alvo da alma.
-SKILL_20150317_001591 Distância do Afastamento #{CaptionRatio}#, Splash #{SkillSR}#{nl} Consumo #{SpendSP}# SP
-SKILL_20150317_001592 Teste de Habilidade
-SKILL_20150317_001593 Usa o oráculo para incapacitar os monstros de atacar o jogador por um curto período.
-SKILL_20150317_001594 Continuamente restaura o HP dos aliados em torno.
-SKILL_20150317_001595 Inimigos tem a chance de ficar debuffed quando você for atacado.
-SKILL_20150317_001596 Diminuí o atraso das habilidades dos membros do grupo em n%
-SKILL_20150317_001597 Atordoar
-SKILL_20150317_001598 Incapaz de mover-se
-SKILL_20150317_001599 Medo
-SKILL_20150317_001600 Enquanto, depois de hesitar, o ataque é fraco.
-SKILL_20150317_001601 Sangria
-SKILL_20150317_001602 Inflinge dano de sangramento a cada 1.5 segundos.
-SKILL_20150317_001603 Sangramento Excessivo
-SKILL_20150317_001604 Inflinge intenso dano de sangramento.
-SKILL_20150317_001605 Arranco
-SKILL_20150317_001606 Move mais rápido  durante 15 segundos
-SKILL_20150317_001607 Recuperação
-SKILL_20150317_001608 Recupera HP e Sp em 5% por segundo.
-SKILL_20150317_001609 Revelação
-SKILL_20150317_001610 Revelação.
-SKILL_20150317_001611 Descanso
-SKILL_20150317_001612 Aumenta a recuperação de HP, SP e STA.
-SKILL_20150317_001613
-SKILL_20150317_001614
-SKILL_20150317_001615
-SKILL_20150317_001616
-SKILL_20150317_001617
-SKILL_20150317_001618
-SKILL_20150317_001619
-SKILL_20150317_001620
-SKILL_20150317_001621
-SKILL_20150317_001622
-SKILL_20150317_001623
-SKILL_20150317_001624
-SKILL_20150317_001625
-SKILL_20150317_001626
-SKILL_20150317_001627
-SKILL_20150317_001628
-SKILL_20150317_001629
-SKILL_20150317_001630
-SKILL_20150317_001631
-SKILL_20150317_001632
-SKILL_20150317_001633
-SKILL_20150317_001634
-SKILL_20150317_001635
-SKILL_20150317_001636
-SKILL_20150317_001637
-SKILL_20150317_001638
-SKILL_20150317_001639
-SKILL_20150317_001640
-SKILL_20150317_001641
-SKILL_20150317_001642
-SKILL_20150317_001643
-SKILL_20150317_001644
-SKILL_20150317_001645
-SKILL_20150317_001646
-SKILL_20150317_001647
-SKILL_20150317_001648
-SKILL_20150317_001649
-SKILL_20150317_001650
-SKILL_20150317_001651
-SKILL_20150317_001652
-SKILL_20150317_001653
-SKILL_20150317_001654
-SKILL_20150317_001655
-SKILL_20150317_001656
-SKILL_20150317_001657
-SKILL_20150317_001658
+SKILL_20150317_001558 Dissipador de Habilidade
+SKILL_20150317_001559 Simonia
+SKILL_20150317_001560 Intensificador de Habilidade
+SKILL_20150317_001561 Loja de Magia
+SKILL_20150317_001562 Indulgência
+SKILL_20150317_001563 Sacrifício
+SKILL_20150317_001564 Telepata
+SKILL_20150317_001565 Carnívoro
+SKILL_20150317_001566 Mudar de Forma
+SKILL_20150317_001567 Transformar
+SKILL_20150317_001568 Sterea Trofh
+SKILL_20150317_001569 Chortasmata
+SKILL_20150317_001570 Transformar em Planta
+SKILL_20150317_001571 Chamada de Divindades
+SKILL_20150317_001572 Energia Arcana
+SKILL_20150317_001573 Mudança
+SKILL_20150317_001574 Clarividência
+SKILL_20150317_001575 Contramágica
+SKILL_20150317_001576 Previsão
+SKILL_20150317_001577 Mudar queda de item
+SKILL_20150317_001578 Tornar-se guarda e propagar o buff recebido aos aliados.
+SKILL_20150317_001579 Criar um círculo mágico que aumenta a DEX dos aliados. Diminuí a defesa do inimigo.
+SKILL_20150317_001580 Agilidade +#{CaptionRatio}#% aumenta {nl}Duração #{CaptionTime}#{nl} segundos {nl}Defesa do Inimigo -#{CaptionRatio2}#%{nl} {nl}Duração do circulo mágico 10 segundos {nl}Consumo #{SpendSP}# SP
+SKILL_20150317_001581 Um circulo mágico que aumentará a velocidade de movimento dos aliados.
+SKILL_20150317_001582 Velocidade de Movimento + #{CaptionRatio}#% {nl} Velocidade + 0.2% por nível de habilidade {nl} Duração #{CaptionTime}# segundos{nl}Consumo #{SpendSP}# SP
+SKILL_20150317_001583 Aspergir água benta nos aliados à frente incluindo você mesmo, aumentando o ataque.
+SKILL_20150317_001584 Ataque +#{CaptionRatio}#% {nl}Aumenta o ataque adicional 0.4% por nível de habilidade{nl}Duração 120 segundos{nl}Consumo #{SpendSP}# SP
+SKILL_20150317_001585 Ataque aditivo eficaz para inimigos próximos.
+SKILL_20150317_001586 Cria Hp mágico que aumenta o HP máximo dos aliados.
+SKILL_20150317_001587 Energia Máxima + #{CaptionRatio}#% {nl}Duração 90 segundos {nl}Consumo #{SpendSP}# SP
+SKILL_20150317_001588 Inicia febre nos membros do grupo.
+SKILL_20150317_001589 Extrair alvo da alma.
+SKILL_20150317_001590 Distância do Afastamento #{CaptionRatio}#, Splash #{SkillSR}#{nl} Consumo #{SpendSP}# SP
+SKILL_20150317_001591 Teste de Habilidade
+SKILL_20150317_001592 Usa o oráculo para incapacitar os monstros de atacar o jogador por um curto período.
+SKILL_20150317_001593 Continuamente restaura o HP dos aliados em torno.
+SKILL_20150317_001594 Inimigos tem a chance de ficar debuffed quando você for atacado.
+SKILL_20150317_001595 Diminuí o atraso das habilidades dos membros do grupo em n%
+SKILL_20150317_001596 Atordoar
+SKILL_20150317_001597 Incapaz de mover-se
+SKILL_20150317_001598 Medo
+SKILL_20150317_001599 Enquanto, depois de hesitar, o ataque é fraco.
+SKILL_20150317_001600 Sangramento
+SKILL_20150317_001601 Inflinge dano de sangramento a cada 1.5 segundos.
+SKILL_20150317_001602 Sangramento Excessivo
+SKILL_20150317_001603 Inflinge intenso dano de sangramento.
+SKILL_20150317_001604 Arranco
+SKILL_20150317_001605 Move mais rápido  durante 15 segundos
+SKILL_20150317_001606 Recuperação
+SKILL_20150317_001607 Recupera HP e Sp em 5% por segundo.
+SKILL_20150317_001608 Revelação
+SKILL_20150317_001609 Revelação.
+SKILL_20150317_001610 Descanso
+SKILL_20150317_001611 Aumenta a recuperação de HP, SP e STA.
+SKILL_20150317_001612 Proteção
+SKILL_20150317_001613 Proteção.
+SKILL_20150317_001614 Diminuir Agilidade
+SKILL_20150317_001615 Diminuí a velocidade de movimento.
+SKILL_20150317_001616 Congelar
+SKILL_20150317_001617 Congela o alvo.
+SKILL_20150317_001618 Inflamar
+SKILL_20150317_001619 Incendeia devido ao óleo.
+SKILL_20150317_001620 Sequelas da ressureição
+SKILL_20150317_001621 Sequelas da ressureição. A maioria das habilidade de combate diminuem.
+SKILL_20150317_001622 Aumentar Agilidade
+SKILL_20150317_001623 Aumenta a velocidade de movimento.
+SKILL_20150317_001624 Onda de Choque
+SKILL_20150317_001625 Fogo
+SKILL_20150317_001626 Recebe dano de fogo periodicamente.
+SKILL_20150317_001627 Conter
+SKILL_20150317_001628 Imobilizado.
+SKILL_20150317_001629 Fixar velocidade de movimeno
+SKILL_20150317_001630 Cegueira
+SKILL_20150317_001631 Interfere no campo de visao.
+SKILL_20150317_001632 OP Buff
+SKILL_20150317_001633 Aumenta o ataque.
+SKILL_20150317_001634 Veneno Mortal
+SKILL_20150317_001635 Recebe dano de veneno periodicamente.
+SKILL_20150317_001636 Veneno Mortal Contagioso
+SKILL_20150317_001637 Redução de danos. Periodicamente recebem dano de veneno. O efeito é transferido para alvos próximos.
+SKILL_20150317_001638 Evasão
+SKILL_20150317_001639 Evasão.
+SKILL_20150317_001640 Choque Defensivo
+SKILL_20150317_001641 Bloqueado pelo inimigo e ruir em estado de choque. Chance de ataque crítico inimigo aumenta para 100%.
+SKILL_20150317_001642 Petrificar
+SKILL_20150317_001643 Petrificado.
+SKILL_20150317_001644 Melhorar a Paciência
+SKILL_20150317_001645 Reduz o dano recebido em 20%
+SKILL_20150317_001646 Chama Ardente
+SKILL_20150317_001647 Localiza e explode o inimigo
+SKILL_20150317_001648 Tempestade de Neve
+SKILL_20150317_001649 Gatilho Frio
+SKILL_20150317_001650 Aumentado o dano de ataque do air frio.
+SKILL_20150317_001651 Incendiar
+SKILL_20150317_001652 Calmaria
+SKILL_20150317_001653 Acalma e para de mover.
+SKILL_20150317_001654 Envenenar
+SKILL_20150317_001655 Aumenta o ataque, enquanto diminuí a defesa.
+SKILL_20150317_001656 Transparent
+SKILL_20150317_001657 Efeito de estado transparente.
+SKILL_20150317_001658 Recupera o HP a cada 3 segundos.
 SKILL_20150317_001659
 SKILL_20150317_001660
-SKILL_20150317_001661
-SKILL_20150317_001662
-SKILL_20150317_001663
-SKILL_20150317_001664
-SKILL_20150317_001665
-SKILL_20150317_001666
-SKILL_20150317_001667
-SKILL_20150317_001668
-SKILL_20150317_001669
-SKILL_20150317_001670
-SKILL_20150317_001671
-SKILL_20150317_001672
-SKILL_20150317_001673
-SKILL_20150317_001674
-SKILL_20150317_001675
-SKILL_20150317_001676
-SKILL_20150317_001677
-SKILL_20150317_001678
-SKILL_20150317_001679
-SKILL_20150317_001680
-SKILL_20150317_001681
-SKILL_20150317_001682
-SKILL_20150317_001683
-SKILL_20150317_001684
-SKILL_20150317_001685
-SKILL_20150317_001686
-SKILL_20150317_001687
-SKILL_20150317_001688
-SKILL_20150317_001689
-SKILL_20150317_001690
-SKILL_20150317_001691
-SKILL_20150317_001692
-SKILL_20150317_001693
-SKILL_20150317_001694
-SKILL_20150317_001695
-SKILL_20150317_001696
-SKILL_20150317_001697
-SKILL_20150317_001698
-SKILL_20150317_001699
-SKILL_20150317_001700
-SKILL_20150317_001701
-SKILL_20150317_001702
-SKILL_20150317_001703
-SKILL_20150317_001704
-SKILL_20150317_001705
-SKILL_20150317_001706
-SKILL_20150317_001707
-SKILL_20150317_001708
-SKILL_20150317_001709
-SKILL_20150317_001710
-SKILL_20150317_001711
-SKILL_20150317_001712
-SKILL_20150317_001713
-SKILL_20150317_001714
-SKILL_20150317_001715
-SKILL_20150317_001716
-SKILL_20150317_001717
-SKILL_20150317_001718
-SKILL_20150317_001719
-SKILL_20150317_001720
-SKILL_20150317_001721
+SKILL_20150317_001661 Aumentar o Ataque
+SKILL_20150317_001662 Diminuir Ataque e Evasão
+SKILL_20150317_001663 Aumentar o SP e Vigor
+SKILL_20150317_001664 Aumenta a quantidadede SP e a recuperação de Vigor.
+SKILL_20150317_001665 Diminuí a Defesa e o Ataque
+SKILL_20150317_001666 Fúria
+SKILL_20150317_001667 Torna-se enfurecido. Aumenta STR, Ataque Físico e Velocidade de Movimento, mas diminuí INT, Defesa Física e Mágica.
+SKILL_20150317_001668 Amaldiçoar Alvo
+SKILL_20150317_001669 Impossibilita recuperação natural e diminuí a defesa mágica.
+SKILL_20150317_001670 Alvorecer do Vício
+SKILL_20150317_001671 Espalha veneno para os inimigos próximos. Deslocamento e o uso de itens são limitados
+SKILL_20150317_001672 Crescimento
+SKILL_20150317_001673 Confusão
+SKILL_20150317_001674 Não pode distinguir amigos e inimigos.
+SKILL_20150317_001675 Atordoar
+SKILL_20150317_001676 Jogador RAISEUP
+SKILL_20150317_001677 Quando atacado pelo inimigo, aumenta o ataque enquanto diminu´a defesa.
+SKILL_20150317_001678 Gelar
+SKILL_20150317_001679 Ator Congelado
+SKILL_20150317_001680 Destruir Campo
+SKILL_20150317_001681 Diminuí a defesa.
+SKILL_20150317_001682 Sucção
+SKILL_20150317_001683 Refletir
+SKILL_20150317_001684 Ajuntar Habilidades
+SKILL_20150317_001685 Sacrifício
+SKILL_20150317_001686 Comutar vida.
+SKILL_20150317_001687 Troca HP por SP e cria um escudo de defesa de 50% MHP que tem a duração de 10 segundos.
+SKILL_20150317_001688 Parar
+SKILL_20150317_001689 Aumenta a velocidade de movimento
+SKILL_20150317_001690 Aumenta significativamente a velocidade de movimento.
+SKILL_20150317_001691 Íon
+SKILL_20150317_001692 Causa dano nos arredores exceto no alvo
+SKILL_20150317_001693 Dano adicional de acordo com os números de ataques por alvo, enquanto o buff está habilitado.
+SKILL_20150317_001694 Destruir Armadura
+SKILL_20150317_001695 Diminuí a defesa para 0.
+SKILL_20150317_001696 Danificar Debuff
+SKILL_20150317_001697 Dano quando o buff acabar
+SKILL_20150317_001698 Esconder Personagem (para o vídeo)
+SKILL_20150317_001699 Capturar o inimigo com telecinese
+SKILL_20150317_001700 Captura por telecinese.
+SKILL_20150317_001701 Escudo Refletor
+SKILL_20150317_001702 Reflete todos os ataques durante um certo tempo.
+SKILL_20150317_001703 Febre! Aumenta o ataque em 5 combos.
+SKILL_20150317_001704 Provoca medo e confusão
+SKILL_20150317_001705 Efeito do Flu Flu
+SKILL_20150317_001706 Surto de Medo
+SKILL_20150317_001707 Manchas de Óleo
+SKILL_20150317_001708 Você vai estar em apuros se for atacado com ataques de propriedade fogo.
+SKILL_20150317_001709 Aumenta a velocidade de movimento.
+SKILL_20150317_001710 Aura Sagrada
+SKILL_20150317_001711 Espalhe buffs recebidos recentemente para os aliados
+SKILL_20150317_001712 Névoa
+SKILL_20150317_001713 Diminuí a precisão.
+SKILL_20150317_001714 Esconder na Caixa
+SKILL_20150317_001715 Esconde em uma caixa.
+SKILL_20150317_001716 Sangria
+SKILL_20150317_001717 Esquivar
+SKILL_20150317_001718 Reduz a velocidade de movimento.
+SKILL_20150317_001719 Aumenta STR e INT quando matar inimigos nete estado.
+SKILL_20150317_001720 Aumenta o ataque.
+SKILL_20150317_001721 Aumenta a defesa.
 SKILL_20150317_001722
 SKILL_20150317_001723
 SKILL_20150317_001724
