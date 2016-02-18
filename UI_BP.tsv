@@ -216,29 +216,29 @@ UI_20150317_000215	{@st41b}Gerenciar
 UI_20150317_000216	{@st41b}Adicionar Amigo
 UI_20150317_000217	{@st41b}Bloquear
 UI_20150317_000218	{@st59}Procurar{/}
-UI_20150317_000219
-UI_20150317_000220
-UI_20150317_000221
-UI_20150317_000222
-UI_20150317_000223
-UI_20150317_000224
-UI_20150317_000225
-UI_20150317_000226
-UI_20150317_000227
-UI_20150317_000228
-UI_20150317_000229
-UI_20150317_000230
-UI_20150317_000231
-UI_20150317_000232
-UI_20150317_000233
-UI_20150317_000234
-UI_20150317_000235
-UI_20150317_000236
-UI_20150317_000237
-UI_20150317_000238
-UI_20150317_000239
-UI_20150317_000240
-UI_20150317_000241
+UI_20150317_000219  {@st44}Guilda{/}
+UI_20150317_000220  Guilda
+UI_20150317_000221  Lista
+UI_20150317_000222  Novidades
+UI_20150317_000223  Missão da Guilda
+UI_20150317_000224  Membros Online
+UI_20150317_000225  {@st44}Criar Guilda{/}
+UI_20150317_000226  {@st42}Criar{/}
+UI_20150317_000227  {@st42}Fechar{/}
+UI_20150317_000228  {@st42}Todos{/}
+UI_20150317_000229  {@st42}Rank Diário{/}
+UI_20150317_000230  {@st42}Rank Semanal{/}
+UI_20150317_000231	{@st56}Rank {/}
+UI_20150317_000232  {@st56}Pontos{/}
+UI_20150317_000233  {@st56}Classe{/}
+UI_20150317_000234  {@st56}Nome {/}
+UI_20150317_000235  Página Anterior
+UI_20150317_000236  Próxima Página
+UI_20150317_000237  {@st42}Pesquisar ID{/}
+UI_20150317_000238  Inserir o  ID para pesquisar
+UI_20150317_000239  Fechar o Hall da Fama
+UI_20150317_000240  Inserir o  ID para pesquisar
+UI_20150317_000241  {@st59} Vigor {/}
 UI_20150317_000242	{@st43}Lista de Ajuda{/}
 UI_20150317_000243	{@st59}Fechar janela da Lista de Ajuda{/}
 UI_20150317_000244	{@st59b}Lista de ajuda{nl}{@st59s}- Ler os tópicos novamente {nl}- Selecione um tópico para exibir detalhes {/}
@@ -257,10 +257,10 @@ UI_20150317_000256	{@st59}Fechar Janela de Teleporte{/}
 UI_20150317_000257	{@st59b}Teleporte{nl}{@st59s}- Sistema que pode teleportar o usuário para outras regiões{nl}- É necessário que ao menos duas estátuas estejam ativas para usar essa função{nl}{/}
 UI_20150317_000258	{@st41}Localização Atual : %s{/}
 UI_20150317_000259	{@st43}{s22}Teleportar{/}
-UI_20150317_000260
-UI_20150317_000261
-UI_20150317_000262
-UI_20150317_000263
+UI_20150317_000260  {@st41b}Você quer mover-se para esta área?{/}
+UI_20150317_000261  Sobre Siauliai
+UI_20150317_000262  Moeda Consumida : 0
+UI_20150317_000263  Intro
 UI_20150317_000264	{@st43}Inventário{/}
 UI_20150317_000265	{@st59}Fechar Inventário{/}
 UI_20150317_000266	Equipamentos {@st59b} {nl} {@st59s}-Cabelo/Roupas: equipe para mudar o visual do personagem {nl} -Armas: Pode usar armas de uma ou duas mãos {nl} (sub-arma/escudo podem ser utilizados com armas de uma mão) {nl} -Armadura: Tronco, Pernas, Luvas, Sapatos {nl} -Acessórios: Pode usar 1 colar e 2 braceletes {nl} {/}
@@ -282,24 +282,24 @@ UI_20150317_000281	Peso
 UI_20150317_000282	{@st43}Melhoramento do Equip.{/}
 UI_20150317_000283	{@st59}Fechar Interface do Reparo de Item{/}
 UI_20150317_000284	{@st42}Melhoramento Disponível
-UI_20150317_000285
-UI_20150317_000286
-UI_20150317_000287
-UI_20150317_000288
-UI_20150317_000289
-UI_20150317_000290
-UI_20150317_000291
-UI_20150317_000292
-UI_20150317_000293
-UI_20150317_000294
-UI_20150317_000295
-UI_20150317_000296
-UI_20150317_000297
-UI_20150317_000298
-UI_20150317_000299
-UI_20150317_000300
-UI_20150317_000301
-UI_20150317_000302
+UI_20150317_000285  {@st42}Consumir{/}
+UI_20150317_000286  {@st42}Correr
+UI_20150317_000287  {@st42}Alvo do Item{/}
+UI_20150317_000288  {@st59}Anel 1{/}
+UI_20150317_000289  {@st43}Criar Item{/}
+UI_20150317_000290  {@st42b}Mostrar Items Criados{/}
+UI_20150317_000291  {@st59}Fechar{/}
+UI_20150317_000292  {@st43}{s22}Dividir Item
+UI_20150317_000293  {@st59}Entrar quantidade{/}
+UI_20150317_000294  Barra de Hp do Monstro
+UI_20150317_000295  {@st44}Conjunto de Itens adquirido{/}
+UI_20150317_000296  Teclado do Guerreiro
+UI_20150317_000297  Derrotas
+UI_20150317_000298  99 minutos 99 segundos
+UI_20150317_000299  38000 pontos
+UI_20150317_000300  Poção de Velocidade Reforçada
+UI_20150317_000301  {@st41}Confirmar{/}
+UI_20150317_000302  {@st59b} Jornal de Aventura {nl}{@st59s}- O seu progresso do jogo é registrado no Jornal de Aventura. {nl} - Você pode progredir o seu Índice de Aventura através de conteúdos como: Obter itens, caçar monstros, criar e explorar o mapa.{nl} Índice de Aventura : O total de todos os seus índices. {nl} Desenvolvimento : 5 pontos por nível de personagem ou classe {nl} Itens : Equipamento : categoria X 10 pontos, Livros : 10 pontos, Outros : 1 ponto {nl} Monstros : 10 pontos por monstro (50 pontos por Boss) {nl} Mapas : 1 ponto por 10% explorado {nl} Quests : 1 ponto por quest {nl} Conquistas : Varia de acordo com as conquistas {nl} Criações : 10 pontos {nl} Coleção : 5 pontos pela plataforma e 45 pontos quando completar {nl} - Você pode receber recompensas especiais de um NPC na cidade dependendo do seu Índice de Aventura. {/}
 UI_20150317_000303	{@sti7}{s22}{ds}Conquistas{/}
 UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Pts{/}
 UI_20150317_000305	{@st42b} Média / %s Pts {/}
@@ -328,31 +328,31 @@ UI_20150317_000327	Reistência Mágica
 UI_20150317_000328	Taxa de Crítico
 UI_20150317_000329	{@st43}#pending Soquete{/}
 UI_20150317_000330	{@st59}Fehcar o Gerenciador de #pending Sockets{/}
-UI_20150317_000331
+UI_20150317_000331  Por favor insira os seus itens
 UI_20150317_000332	Potencial
 UI_20150317_000333
 UI_20150317_000334
-UI_20150317_000335
-UI_20150317_000336
-UI_20150317_000337
-UI_20150317_000338
-UI_20150317_000339
-UI_20150317_000340
-UI_20150317_000341
-UI_20150317_000342
-UI_20150317_000343
-UI_20150317_000344
-UI_20150317_000345
-UI_20150317_000346
-UI_20150317_000347
-UI_20150317_000348
-UI_20150317_000349
-UI_20150317_000350
-UI_20150317_000351
-UI_20150317_000352
-UI_20150317_000353
-UI_20150317_000354
-UI_20150317_000355
+UI_20150317_000335  {@st41b}Extrair Gema
+UI_20150317_000336  {@st41}Criar{/}
+UI_20150317_000337  {@st41}%s %s ea
+UI_20150317_000338  Área do Mapa
+UI_20150317_000339  Área Explorada : 95.5%
+UI_20150317_000340  {@st45tw}Área Explorada %s% {/}
+UI_20150317_000341  {@st59}Fechar{/}
+UI_20150317_000342  {@st41}Mapa{/}
+UI_20150317_000343  Shift(limpar), Ctrl(mid fill)
+UI_20150317_000344  {ol}Título
+UI_20150317_000345  {@st41}Add{/}
+UI_20150317_000346  {@st41}Deletar{/}
+UI_20150317_000347  {@st41}Salvar{/}
+UI_20150317_000348	{@st41}Auto{/}
+UI_20150317_000349  {@st41}Resetar{/}
+UI_20150317_000350  {@st59}Estabelecer quantity.{/}
+UI_20150317_000351  {ol}Grupo
+UI_20150317_000352  {ol}Menssagem
+UI_20150317_000353  {ol}Áudio
+UI_20150317_000354  {@st41}Criar Minimapa{/}
+UI_20150317_000355  {@st55}Área do Mapa
 UI_20150317_000356	{@st43}{s22}Mercado{/}
 UI_20150317_000357	{@st43}{s24}Mercado{/}
 UI_20150317_000358	{@st42b}Filtrar{/}
@@ -375,86 +375,86 @@ UI_20150317_000374	{@st42b}Preço
 UI_20150317_000375	{@st42b}Ocultar Nome do Vendedor{/}
 UI_20150317_000376	{@st41b}Adicionar
 UI_20150317_000377
-UI_20150317_000378
-UI_20150317_000379
-UI_20150317_000380
-UI_20150317_000381
-UI_20150317_000382
-UI_20150317_000383
-UI_20150317_000384
-UI_20150317_000385
-UI_20150317_000386
-UI_20150317_000387
-UI_20150317_000388
-UI_20150317_000389
-UI_20150317_000390	{@st59}Mais Zoom{/}
-UI_20150317_000391	{@st59}Menos Zoom{/}
+UI_20150317_000378  Foi morto por alguém
+UI_20150317_000379  {@st43}Minigames{/}
+UI_20150317_000380  {@st49}Catapulta de Fogo{/}
+UI_20150317_000381  {@st44}Controlar direções{/}
+UI_20150317_000382  {@st44}Fogo{/}
+UI_20150317_000383  Minigame
+UI_20150317_000384  {s18}{ol}{gr gradation1}Esconde-esconde minigame{/}
+UI_20150317_000385  {s16}Você quer se juntar ao mini-game?
+UI_20150317_000386  {s16}Participantes : (0/5)
+UI_20150317_000387  {s16}Participantes : (%s /%s)
+UI_20150317_000388  {s16}O jogo irá iniciar em 1 segundo.
+UI_20150317_000389  {s16}O jogo irá iniciar em %s segundos.
+UI_20150317_000390	{@st59}Ampliar{/}
+UI_20150317_000391	{@st59}Distânciar{/}
 UI_20150317_000392	{@st59}Mapa (M){/}
-UI_20150317_000393
-UI_20150317_000394
-UI_20150317_000395
-UI_20150317_000396
-UI_20150317_000397
-UI_20150317_000398
-UI_20150317_000399
-UI_20150317_000400
-UI_20150317_000401
-UI_20150317_000402
-UI_20150317_000403
-UI_20150317_000404
-UI_20150317_000405
-UI_20150317_000406
-UI_20150317_000407
-UI_20150317_000408
-UI_20150317_000409
-UI_20150317_000410
-UI_20150317_000411
-UI_20150317_000412
-UI_20150317_000413
-UI_20150317_000414
-UI_20150317_000415
-UI_20150317_000416
-UI_20150317_000417
-UI_20150317_000418
+UI_20150317_000393  {@st42b} Área do Mapa
+UI_20150317_000394  {@st44}Sintetizador de Item{/}
+UI_20150317_000395  {s16}{#FFcc66}{ol}Por favor selecione o item que você quer criar{/}{/}
+UI_20150317_000396	{s16}{#FFcc66}{ol}Arraste os ingredientes para os slots
+UI_20150317_000397  {@st42}Criar{/}
+UI_20150317_000398  {@st42} Cancelar {/}
+UI_20150317_000399  Informação de %s
+UI_20150317_000400  Kepa ou ...
+UI_20150317_000401  {@st41}{Details}
+UI_20150317_000402  {s20}{#050505}Descrição do Monstro
+UI_20150317_000403  {@st41} Derrotar {/}
+UI_20150317_000404  {@st41} Derrota Brutal {/}
+UI_20150317_000405  {@st41} Derrota Normal {/}
+UI_20150317_000406  {@st41} Área {/}
+UI_20150317_000407  {@st41} Item {/}
+UI_20150317_000408  {@st41} Conquista {/}
+UI_20150317_000409  Objeto
+UI_20150317_000410  {@st43}Necronomicon{/}
+UI_20150317_000411  {@st59}Fechar{/}
+UI_20150317_000412  {@st59}I am too lazy to think.{/}
+UI_20150317_000413  {@st59}Estou com muita preguça para pensar.{/}
+UI_20150317_000414  Criatura Invocada : {#ffcc33}%s{/}
+UI_20150317_000415  Hapiar Morta-Viva
+UI_20150317_000416  Habilidade : %s
+UI_20150317_000417  Habilidade 1, Habilidade 2
+UI_20150317_000418  Fragmentos necessários : %s
 UI_20150317_000419
-UI_20150317_000420
-UI_20150317_000421
-UI_20150317_000422
-UI_20150317_000423
-UI_20150317_000424
-UI_20150317_000425
-UI_20150317_000426
-UI_20150317_000427
-UI_20150317_000428
-UI_20150317_000429
-UI_20150317_000430
+UI_20150317_000420  Partes 1
+UI_20150317_000421  Partes 2
+UI_20150317_000422  Partes 3
+UI_20150317_000423  Parabéns! Você subiu de nível.
+UI_20150317_000424  Alerta de Item
+UI_20150317_000425  {@st64}Detalhes{/}
+UI_20150317_000426  Como Jogar
+UI_20150317_000427  {@st42b}          Mover uma vez com cada uma das teclas direcionais{/}
+UI_20150317_000428  {@st42b}         Execute um ataque básico{/}
+UI_20150317_000429  {@st42b}                Pular{/}
+UI_20150317_000430  {@st42b}  Pressione duas teclas direcionais para mover-se diagonalmente.{/}
 UI_20150317_000431
-UI_20150317_000432
-UI_20150317_000433
-UI_20150317_000434
-UI_20150317_000435
+UI_20150317_000432  Ferramenta para matar monstros
+UI_20150317_000433  Ferramenta para fazer um mini-mapa
+UI_20150317_000434  Ferramenta de diálogo
+UI_20150317_000435  {@st43}Configurações do GM{/}
 UI_20150317_000436	{@st59}Fechar Informações do Grupo{/}
 UI_20150317_000437	{@st59b}Informação de Grupo {nl}{@st59s} - Clique em "criar grupo" abaixo para criar seu próprio grupo {nl} - Clique com o botão direito nos outros jogadores para convidá-los {nl} - Mude as configurações do grupo na aba configurações {nl} - Aplicar condições para pesquisar por membros na Lista de Grupos Pública{/}
 UI_20150317_000438	{@st43}Informações do Grupo{/}
 UI_20150317_000439	{@st41b}Membros{/}
 UI_20150317_000440	{@st41b}Eventos do Grupo{/}
 UI_20150317_000441	{@st41b}Config{/}
-UI_20150317_000442
-UI_20150317_000443
-UI_20150317_000444
-UI_20150317_000445
-UI_20150317_000446
-UI_20150317_000447
-UI_20150317_000448
+UI_20150317_000442	{@st41}Membros{/}
+UI_20150317_000443	{@st41}Requisitos para se juntar a este grupo
+UI_20150317_000444  {@st41b}Público
+UI_20150317_000445  {@st41b}Privado
+UI_20150317_000446  Nível Desejado
+UI_20150317_000447  {@st41}Distribuição de itens
+UI_20150317_000448  {@st41b}Livre para todos
 UI_20150317_000449
-UI_20150317_000450
-UI_20150317_000451
-UI_20150317_000452
-UI_20150317_000453
-UI_20150317_000454
-UI_20150317_000455
-UI_20150317_000456
-UI_20150317_000457
+UI_20150317_000450  {@st41b}Aleatório
+UI_20150317_000451  {@st41}Distribuição de EXP
+UI_20150317_000452  {@st41b}Individual
+UI_20150317_000453	{@st41b}Igual
+UI_20150317_000454  {@st41b}Por nível
+UI_20150317_000455	{@st41}Compartilhar Missão
+UI_20150317_000456  {@st41b}Ativado
+UI_20150317_000457  {@st41b}Desativado
 UI_20150317_000458	{@st41b}Criar Grupo
 UI_20150317_000459	{@st43}Lista de Grupos Públicos{/}
 UI_20150317_000460	{@st59b}Lista de Grupos Públicos{nl}{@st59s}- Procure por grupos que você queira se juntar{nl}- Personalise a pesquisa para pesquisar pelo grupo que quer {/}
@@ -463,16 +463,16 @@ UI_20150317_000462	Usar Procura
 UI_20150317_000463	Compart. de Missão
 UI_20150317_000464	Distribuição de Exp
 UI_20150317_000465	Distribuição de Item
-UI_20150317_000466
-UI_20150317_000467
+UI_20150317_000466  {@st43}Convidar
+UI_20150317_000467  {@st41b}Convidar{/}
 UI_20150317_000468
-UI_20150317_000469
-UI_20150317_000470
-UI_20150317_000471
-UI_20150317_000472
-UI_20150317_000473
-UI_20150317_000474
-UI_20150317_000475
+UI_20150317_000469	{ol}Condições para a aplicação de regras
+UI_20150317_000470  
+UI_20150317_000471  Digite um nome para a regra
+UI_20150317_000472  {Gr gradation1}Registro{/}
+UI_20150317_000473  Registrar Regras
+UI_20150317_000474  {Gr gradation1}Cancelar{/}
+UI_20150317_000475  Cancelar Ação
 UI_20150317_000476	{@st43}Informação do Mascote
 UI_20150317_000477	{@st59b}Informação do Mascote{nl}{@st59s} - Você pode configurar seu mascote para o modo Ativo ou Descanso usando o botão abaixo.{nl} - Os atributos e equipamentos do seu mascote podem ser personalizados.{/}
 UI_20150317_000478	{@st59}Fechar Informação do Mascote{/}
